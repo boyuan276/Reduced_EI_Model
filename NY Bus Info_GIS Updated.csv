@@ -1,0 +1,141 @@
+FID,Shape,FID_1,bus,Nation,State,ISO,NYZone,NYISO Zone (GIS),County,Longtitude,Latitude,Title
+25,Point,0,116034,US,new york,NY,F,F,rensselaer,-73.497,42.596,Capital
+34,Point,1,125000,US,new york,NY,G,G,ulster,-74.047,41.937,Hudson Valley
+35,Point,2,125001,US,new york,NY,G,G,orange,-74.197,41.468,Hudson Valley
+36,Point,3,125002,US,new york,NY,G,G,orange,-73.979,41.575,Hudson Valley
+37,Point,4,126250,US,new york,NY,G,G,rockland,-74.156,41.15,Hudson Valley
+38,Point,5,126260,US,new york,NY,G,G,rockland,-73.969,41.206,Hudson Valley
+39,Point,6,126261,US,new york,NY,G,G,rockland,-73.969,41.206,Hudson Valley
+52,Point,7,126262,US,new york,NY,H,H,westchester,-73.947,41.264,Millwood
+53,Point,8,126263,US,new york,NY,H,H,westchester,-73.947,41.264,Millwood
+57,Point,9,126267,US,new york,NY,H,I,westchester,-73.832,41.077,Dunwoodie
+58,Point,10,126268,US,new york,NY,H,I,westchester,-73.832,41.077,Dunwoodie
+59,Point,11,126269,US,new york,NY,H,I,westchester,-73.832,41.077,Dunwoodie
+60,Point,12,126270,US,new york,NY,H,I,westchester,-73.832,41.077,Dunwoodie
+70,Point,13,126272,US,new york,NY,J,J,new york,-73.975,40.728,N.Y.C.
+71,Point,14,126273,US,new york,NY,J,J,new york,-73.975,40.728,N.Y.C.
+72,Point,15,126274,US,new york,NY,J,J,new york,-73.975,40.728,N.Y.C.
+73,Point,16,126275,US,new york,NY,J,J,new york,-73.975,40.728,N.Y.C.
+74,Point,17,126278,US,new york,NY,J,J,kings,-73.982,40.704,N.Y.C.
+75,Point,18,126280,US,new york,NY,J,J,kings,-73.982,40.704,N.Y.C.
+40,Point,19,126281,US,new york,NY,G,G,dutchess,-73.795,41.575,Hudson Valley
+76,Point,20,126282,US,new york,NY,J,J,richmond,-74.187,40.564,N.Y.C.
+77,Point,21,126283,US,new york,NY,J,J,richmond,-74.194,40.617,N.Y.C.
+78,Point,22,126284,US,new york,NY,J,J,richmond,-74.194,40.617,N.Y.C.
+79,Point,23,126285,US,new york,NY,J,J,richmond,-74.194,40.617,N.Y.C.
+80,Point,24,126287,US,new york,NY,J,J,kings,-74.002,40.662,N.Y.C.
+54,Point,25,126288,US,new york,NY,H,H,westchester,-73.951,41.271,Millwood
+41,Point,26,126290,US,new york,NY,G,G,rockland,-74.077,41.184,Hudson Valley
+55,Point,27,126291,US,new york,NY,H,H,westchester,-73.801,41.193,Millwood
+61,Point,28,126292,US,new york,NY,H,I,westchester,-73.782,41.142,Dunwoodie
+62,Point,29,126293,US,new york,NY,H,I,westchester,-73.782,41.142,Dunwoodie
+42,Point,30,126294,US,new york,NY,G,G,dutchess,-73.833,41.742,Hudson Valley
+81,Point,31,126295,US,new york,NY,J,J,queens,-73.943,40.763,N.Y.C.
+43,Point,32,126296,US,new york,NY,G,G,rockland,-74.156,41.15,Hudson Valley
+44,Point,33,126297,US,new york,NY,G,G,rockland,-74.156,41.15,Hudson Valley
+63,Point,34,126298,US,new york,NY,H,I,westchester,-73.856,40.957,Dunwoodie
+82,Point,35,126301,US,new york,NY,J,J,bronx,-73.823,40.843,N.Y.C.
+83,Point,36,126304,US,new york,NY,J,J,new york,-73.996,40.766,N.Y.C.
+45,Point,37,126305,US,new york,NY,G,G,putnam,-73.794,41.354,Hudson Valley
+46,Point,38,126306,US,new york,NY,G,G,putnam,-73.794,41.354,Hudson Valley
+84,Point,39,126320,US,new york,NY,J,J,richmond,-74.194,40.617,N.Y.C.
+85,Point,40,126321,US,new york,NY,J,J,richmond,-74.194,40.617,N.Y.C.
+64,Point,41,126343,US,new york,NY,H,I,westchester,-73.858,40.94,Dunwoodie
+65,Point,42,126517,US,new york,NY,H,I,westchester,-73.856,40.957,Dunwoodie
+66,Point,43,126518,US,new york,NY,H,I,westchester,-73.856,40.957,Dunwoodie
+67,Point,44,126600,US,new york,NY,H,I,westchester,-73.858,40.94,Dunwoodie
+68,Point,45,126601,US,new york,NY,H,I,westchester,-73.858,40.94,Dunwoodie
+86,Point,46,126641,US,new york,NY,J,J,bronx,-73.901,40.871,N.Y.C.
+87,Point,47,126847,US,new york,NY,J,J,bronx,-73.893,40.849,N.Y.C.
+91,Point,48,128822,US,new york,NY,K,K,nassau,-73.611,40.73,Long Island
+92,Point,49,128823,US,new york,NY,K,K,nassau,-73.611,40.73,Long Island
+93,Point,50,128824,US,new york,NY,K,K,nassau,-73.611,40.73,Long Island
+94,Point,51,128830,US,new york,NY,K,K,nassau,-73.652,40.874,Long Island
+95,Point,52,128835,US,new york,NY,K,K,nassau,-73.647,40.828,Long Island
+88,Point,53,128842,US,new york,NY,J,J,kings,-73.97,40.586,N.Y.C.
+96,Point,54,128847,US,new york,NY,K,K,nassau,-73.541,40.733,Long Island
+97,Point,55,130750,US,new york,NY,E,E,sullivan,-74.761,41.669,Mohawk Valley
+117,Point,56,130751,US,new york,NY,C,C,steuben,-77.542,42.443,Central
+98,Point,57,130753,US,new york,NY,E,E,delaware,-74.996,42.255,Mohawk Valley
+0,Point,58,130754,US,new york,NY,A,A,niagara,-78.609,43.352,West
+118,Point,59,130755,US,new york,NY,C,C,broome,-75.983,42.135,Central
+1,Point,60,130756,US,new york,NY,A,A,erie,-78.58,42.832,West
+119,Point,61,130757,US,new york,NY,C,C,chemung,-76.77,42.109,Central
+47,Point,62,130758,US,new york,NY,G,G,putnam,-73.794,41.354,Hudson Valley
+48,Point,63,130759,US,new york,NY,G,G,putnam,-73.794,41.354,Hudson Valley
+120,Point,64,130761,US,new york,NY,C,C,steuben,-77.293,42.4,Central
+121,Point,65,130763,US,new york,NY,C,C,chemung,-76.794,42.103,Central
+122,Point,66,130764,US,new york,NY,A,C,livingston,-77.71,42.556,Central
+123,Point,67,130765,US,new york,NY,C,C,broome,-75.983,42.135,Central
+2,Point,68,130766,US,new york,NY,A,A,niagara,-78.716,43.136,West
+3,Point,69,130767,US,new york,NY,A,A,erie,-78.58,42.832,West
+124,Point,70,130768,US,new york,NY,C,C,chemung,-76.77,42.109,Central
+4,Point,71,130770,US,new york,NY,A,A,wyoming,-78.419,42.737,West
+125,Point,72,130772,US,new york,NY,C,C,tioga,-76.35,42.184,Central
+5,Point,73,131122,US,new york,NY,A,A,wyoming,-78.135,42.641,West
+6,Point,74,131123,US,new york,NY,A,A,wyoming,-78.135,42.641,West
+126,Point,75,131154,US,new york,NY,C,C,steuben,-77.007,42.26,Central
+127,Point,76,131157,US,new york,NY,C,C,cortland,-76.036,42.558,Central
+7,Point,77,135250,US,new york,NY,A,A,chautauqua,-79.348,42.491,West
+8,Point,78,135251,US,new york,NY,A,A,chautauqua,-79.732,42.213,West
+9,Point,79,135303,US,new york,NY,A,A,erie,-78.839,42.966,West
+10,Point,80,135304,US,new york,NY,A,A,erie,-78.839,42.966,West
+11,Point,81,135305,US,new york,NY,A,A,erie,-78.839,42.966,West
+12,Point,82,135306,US,new york,NY,A,A,erie,-78.839,42.966,West
+13,Point,83,135410,US,new york,NY,A,A,erie,-78.821,42.868,West
+14,Point,84,135411,US,new york,NY,A,A,erie,-78.821,42.868,West
+15,Point,85,135412,US,new york,NY,A,A,erie,-78.821,42.868,West
+16,Point,86,135413,US,new york,NY,A,A,erie,-78.768,42.852,West
+17,Point,87,135414,US,new york,NY,A,A,erie,-78.933,42.972,West
+18,Point,88,135415,US,new york,NY,A,A,niagara,-79.007,43.099,West
+19,Point,89,135416,US,new york,NY,A,A,erie,-78.825,42.837,West
+20,Point,90,135417,US,new york,NY,A,A,erie,-78.825,42.837,West
+21,Point,91,135418,US,new york,NY,A,A,erie,-78.752,42.971,West
+22,Point,92,135419,US,new york,NY,A,A,erie,-78.752,42.971,West
+128,Point,93,136150,US,new york,NY,C,C,onondaga,-76.171,43.198,Central
+129,Point,94,136151,US,new york,NY,C,C,onondaga,-76.043,43.048,Central
+130,Point,95,136152,US,new york,NY,C,C,onondaga,-76.388,43.042,Central
+131,Point,96,136153,US,new york,NY,C,C,onondaga,-76.105,42.97,Central
+132,Point,97,136154,US,new york,NY,C,C,oswego,-76.531,43.457,Central
+133,Point,98,136155,US,new york,NY,C,C,oswego,-76.397,43.5,Central
+134,Point,99,136156,US,new york,NY,C,C,oswego,-76.347,43.4,Central
+135,Point,100,136157,US,new york,NY,C,C,oswego,-76.41,43.52,Central
+136,Point,101,136158,US,new york,NY,C,C,oswego,-76.452,43.491,Central
+99,Point,102,137200,US,new york,NY,E,E,oneida,-75.229,43.157,Mohawk Valley
+100,Point,103,137210,US,new york,NY,E,E,oneida,-75.229,43.157,Mohawk Valley
+26,Point,104,137450,US,new york,NY,F,F,rensselaer,-73.497,42.596,Capital
+49,Point,105,137451,US,new york,NY,G,G,greene,-73.849,42.265,Hudson Valley
+27,Point,106,137452,US,new york,NY,F,F,albany,-73.904,42.609,Capital
+28,Point,107,137453,US,new york,NY,F,F,albany,-73.904,42.609,Capital
+29,Point,108,137454,US,new york,NY,F,F,rensselaer,-73.687,42.673,Capital
+30,Point,109,137455,US,new york,NY,G,F,greene,-73.821,42.257,Capital
+31,Point,110,137558,US,new york,NY,F,F,rensselaer,-73.687,42.673,Capital
+32,Point,111,137730,US,new york,NY,F,F,schenectady,-73.997,42.83,Capital
+101,Point,112,137927,US,new york,NY,E,E,lewis,-75.542,43.758,Mohawk Valley
+102,Point,113,137928,US,new york,NY,E,E,lewis,-75.349,43.765,Mohawk Valley
+50,Point,114,146750,US,new york,NY,G,G,rockland,-73.993,41.203,Hudson Valley
+51,Point,115,146754,US,new york,NY,G,G,orange,-74.419,41.428,Hudson Valley
+103,Point,116,147827,US,new york,NY,E,E,oneida,-75.221,43.177,Mohawk Valley
+106,Point,117,147828,US,new york,NY,E,D,st. lawrence,-74.832,44.92,North
+89,Point,118,147829,US,new york,NY,J,J,queens,-73.906,40.782,N.Y.C.
+137,Point,119,147830,US,new york,NY,C,C,oswego,-76.399,43.523,Central
+33,Point,120,147831,US,new york,NY,F,F,schoharie,-74.448,42.439,Capital
+56,Point,121,147832,US,new york,NY,H,H,westchester,-73.951,41.271,Millwood
+104,Point,122,147833,US,new york,NY,E,E,oneida,-75.221,43.177,Mohawk Valley
+23,Point,123,147834,US,new york,NY,A,A,niagara,-79.027,43.14,West
+105,Point,124,147835,US,new york,NY,E,E,lewis,-75.32,43.922,Mohawk Valley
+107,Point,125,147837,US,new york,NY,E,D,st. lawrence,-74.832,44.92,North
+108,Point,126,147838,US,new york,NY,E,D,st. lawrence,-74.832,44.92,North
+109,Point,127,147839,US,new york,NY,E,D,st. lawrence,-74.805,45.004,North
+110,Point,128,147840,US,new york,NY,E,D,st. lawrence,-74.805,45.004,North
+24,Point,129,147841,US,new york,NY,A,A,niagara,-79.027,43.14,West
+111,Point,130,147843,US,new york,NY,D,D,clinton,-73.486,44.726,North
+112,Point,131,147844,US,new york,NY,D,D,clinton,-73.486,44.726,North
+113,Point,132,147846,US,new york,NY,E,D,franklin,-74.121,44.89,North
+69,Point,133,147857,US,new york,NY,H,I,westchester,-73.78,40.915,Dunwoodie
+114,Point,134,147859,US,new york,NY,D,D,clinton,-73.677,44.735,North
+115,Point,135,147970,US,new york,NY,D,D,clinton,-73.752,44.82,North
+116,Point,136,147980,US,new york,NY,D,D,clinton,-73.889,44.823,North
+90,Point,137,148707,US,new york,NY,J,J,queens,-73.906,40.782,N.Y.C.
+138,Point,138,149000,US,new york,NY,B,B,monroe,-77.673,43.054,Genesee
+139,Point,139,149001,US,new york,NY,B,B,monroe,-77.383,43.054,Genesee
